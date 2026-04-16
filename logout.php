@@ -1,5 +1,4 @@
 <?php
-// ==================== logout.php ====================
 require_once 'config.php';
 
 // Limpiar token de "Recordarme"
